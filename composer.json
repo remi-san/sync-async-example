@@ -1,0 +1,12 @@
+{
+    "require": {
+        "league/event": "^2.1",
+        "evaneos/burrow": "^4.0",
+        "selrahcD/burrow-tools": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Evaneos\\Async\\": "src"
+        }
+    }
+}
